@@ -9,7 +9,6 @@ export default class Header extends Component{
                         <header>
                             <h1><a href="index.html" id="logo">Helios</a></h1>
                             <hr />
-                            <p>Boyu Chen</p>
                         </header>
                         <footer>
                             <a href="#banner" className="button circled scrolly">Start</a>
