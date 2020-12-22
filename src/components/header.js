@@ -7,7 +7,7 @@ export default class Header extends Component{
 
                     <div className="inner">
                         <header>
-                            <h1><a href="index.html" id="logo">Helios</a></h1>
+                            <h1><a href="index.html" id="logo">Boyu Chen</a></h1>
                             <hr />
                         </header>
                         <footer>
@@ -18,9 +18,8 @@ export default class Header extends Component{
 
                     <nav id="nav">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
                             <li>
-                                <a href="#">Dropdown</a>
+                            <a href="index.html">Home</a>
                                 <ul>
                                     <li><a href="#">Lorem ipsum dolor</a></li>
                                     <li><a href="#">Magna phasellus</a></li>
@@ -37,9 +36,9 @@ export default class Header extends Component{
                                     <li><a href="#">Veroeros feugiat</a></li>
                                 </ul>
                             </li>
-                            <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                            <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                            <li><a href="no-sidebar.html">No Sidebar</a></li>
+                            <li><a href="left-sidebar.html">Personal Info</a></li>
+                            <li><a href="right-sidebar.html">Projects</a></li>
+                            <li><a href="no-sidebar.html">Contacts</a></li>
                         </ul>
                     </nav>
 
